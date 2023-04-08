@@ -12,6 +12,5 @@ Test Data link: C:/Users/RAMZAN KHAN/Toxicity Prediction/test_II.csv (This is my
 4. Download the '16-2-project' python file, open jupyter and run it. 
 
 5. Generates submission.csv file
-After training and applying the model, its been sent to the submission file for evaluating the results to the below link:-
-
-Submission data link: C:/Users/RAMZAN KHAN/Toxicity Prediction/sample_submission.csv (The path generates would be different based on your machine)
+After training and applying the model, its been sent to the submission file for evaluating the results to the below link:- Submission data link: 
+C:/Users/RAMZAN KHAN/Toxicity Prediction/sample_submission.csv (The path generates would be different based on your machine)
