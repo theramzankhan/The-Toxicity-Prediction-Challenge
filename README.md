@@ -1,5 +1,7 @@
 # The-Toxicity-Prediction-Challenge
 
+**How to run the project:**
+
 1. To read about the problem 'The Toxicity Prediction Challenge', use this below link:-
 Problem Link: https://www.kaggle.com/competitions/the-toxicity-prediction-challenge-ii/
 
